@@ -9,13 +9,13 @@
 	</parent>
 
 	<artifactId>pdfa-helper</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.4-SNAPSHOT</version>
 
 	<scm>
 		<url>https://github.com/lexml/${project.artifactId}</url>
 		<developerConnection>scm:git:https://github.com/lexml/${project.artifactId}.git</developerConnection>
 		<connection>scm:git:https://github.com/lexml/${project.artifactId}.git</connection>
-		<tag>pdfa-helper-0.0.3</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<build>
