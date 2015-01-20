@@ -36,7 +36,7 @@ public class CreatePDFA3 {
         		PDFAttachmentHelper.addAttachment(
         				writer, 
         				new PDFAttachmentFile(
-        						new File("src/main/resources/madoc.jpeg"), 
+        						new File("src/test/resources/madoc.jpeg"), 
         						"madoc.jpeg", 
         						"image/jpeg", 
         						"2012/01/01T01:01-02:00", 
