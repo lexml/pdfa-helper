@@ -142,7 +142,7 @@ public class PDFAttachmentHelper {
 	 * Fonte: http://support.itextpdf.com/node/130
 	 * 
 	 * @param writer
-	 * @param src
+	 * @param file
 	 * @throws IOException
 	 */
 	protected static PdfFileSpecification addAttachment(PdfWriter writer, PDFAttachmentFile file)

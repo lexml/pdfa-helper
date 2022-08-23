@@ -192,7 +192,6 @@ public class PDFA {
 	
 	/**
 	 * Close PDF Stamper
-	 * @param pdfAStamper
 	 * @throws DocumentException
 	 * @throws IOException
 	 */
