@@ -5,6 +5,7 @@
     <groupId>br.gov.lexml</groupId>
     <artifactId>pdfa-helper</artifactId>
     <version>0.10.3-SNAPSHOT</version>
+    <name>LexML PDF/A Helper</name>
     <description>Helper for pdfa attachments</description>
     <url>https://github.com/lexml/${project.artifactId}</url>
 
