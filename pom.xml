@@ -4,7 +4,7 @@
 
     <groupId>br.gov.lexml</groupId>
     <artifactId>pdfa-helper</artifactId>
-    <version>0.10.3-SNAPSHOT</version>
+    <version>0.10.3</version>
     <name>LexML PDF/A Helper</name>
     <description>Helper for pdfa attachments</description>
     <url>https://github.com/lexml/${project.artifactId}</url>
@@ -41,7 +41,7 @@
         <url>https://github.com/lexml/${project.artifactId}</url>
         <developerConnection>scm:git:ssh://git@github.com/lexml/${project.artifactId}.git</developerConnection>
         <connection>scm:git:ssh://git@github.com/lexml/${project.artifactId}.git</connection>
-        <tag>HEAD</tag>
+        <tag>0.10.3</tag>
     </scm>
 
     <distributionManagement>
